@@ -19,7 +19,7 @@ const Footer = () => {
         </a>
     </div>
     <div>
-        <p>© 2025 Code With Yousaf. All Rights Reserved.</p>
+        <p>© 2025 Code With Fathir. All Rights Reserved.</p>
     </div>
   </div>
   );

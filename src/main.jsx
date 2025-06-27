@@ -11,7 +11,7 @@ import 'animate.css';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
-import Footer from './components/Footer.jsx'
+import Footer from './components/Footer.jsx';
 // ..
 AOS.init();
 

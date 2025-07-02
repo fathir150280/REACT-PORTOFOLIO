@@ -11,10 +11,10 @@ const Footer = () => {
         <a href="#">
             <i className="ri-github-fill ri-2x"></i>
         </a>
-        <a href="#">
+        <a href="https://www.instagram.com/__alfatt?igsh=bTUwczA3MnZ1bnBk">
             <i className="ri-instagram-fill ri-2x"></i>
         </a>
-        <a href="#">
+        <a href="https://youtube.com/@muhammadfathiralfathsyah?si=ADWbqA_ncJf35NV2">
             <i className="ri-youtube-fill ri-2x"></i>
         </a>
     </div>

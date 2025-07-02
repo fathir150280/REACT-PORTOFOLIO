@@ -8,7 +8,7 @@ const Footer = () => {
         <a href="#talent">Talent</a>
     </div>
     <div className="flex items-center gap-3">
-        <a href="#">
+        <a href="https://github.com/fathir150280">
             <i className="ri-github-fill ri-2x"></i>
         </a>
         <a href="https://www.instagram.com/__alfatt?igsh=bTUwczA3MnZ1bnBk">

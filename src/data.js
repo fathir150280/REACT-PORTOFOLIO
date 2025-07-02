@@ -138,7 +138,7 @@ export const listProyek = [
     id: 5,
     gambar: Proyek5,
     nama: "Seleksi 10 Besar",
-    desk: "Seleksi sebelum masuk 10 besar",
+    desk: "Seleksi sebelum masuk 10 besar dan alhamdulillah saya masuk 10 besar",
     dad: "600",
   },
   {

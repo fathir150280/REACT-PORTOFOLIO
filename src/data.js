@@ -116,8 +116,8 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Penari MALAYSIA",
-    desk: "Berfoto dengan penari dari Malaysia",
+    nama: "Penampilan penari SERGAI",
+    desk: "Alhamdulillah penampilan kami berjalan dengan lancar dan bisa menampilkan yang terbaik",
     dad: "300",
   },
   {
